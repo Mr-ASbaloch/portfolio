@@ -59,7 +59,7 @@ const Header = () => {
           {/* ======== navigation logo ======== */}
           <div className={`${classes.logo}`}>
             <h1>
-              <span>M</span>uhib
+              <span>A</span>    S
             </h1>
           </div>
 
@@ -76,12 +76,12 @@ const Header = () => {
                 </Link>
               ))}
 
-              <div className={`${classes.nav__right}`}>
+              {/* <div className={`${classes.nav__right}`}>
                 <p className=" d-flex align-items-center gap-2 mb-0">
                   {" "}
                   <i className="ri-phone-line"></i> +088123456789{" "}
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
 
